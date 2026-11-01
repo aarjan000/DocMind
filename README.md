@@ -1,0 +1,2 @@
+# DocMind
+AI Chatbot
