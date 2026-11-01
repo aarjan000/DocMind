@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.*
+!.env.example
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# Local data and documents
+data/
+# Models, backups and OCR files
+model_cache/
+backup_multilingual/
+tessdata/
+# Generated files
+*.zip
+*.log
+.DS_Store
