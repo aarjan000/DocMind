@@ -1,0 +1,4 @@
+tesseract-ocr
+tesseract-ocr-nep
+tesseract-ocr-hin
+tesseract-ocr-tam
